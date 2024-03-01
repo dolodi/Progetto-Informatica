@@ -1,0 +1,15 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+        {
+            "label": "build",
+            "command": "g++",
+            "args": [
+                "-g", 
+                "main.cpp", 
+                "-o", 
+                "${workspaceFolder}/bin/my_program.exe" 
+            ]
+        }
+    ]
+}
