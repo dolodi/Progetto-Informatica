@@ -4,7 +4,11 @@
 
 # libs:
 
- iostream.
- stdio.h.
- ncurses/ncurses.h.
- fstream.
+ iostream
+
+ stdio.h
+
+ ncurses/ncurses.h
+
+ fstream
+ 
