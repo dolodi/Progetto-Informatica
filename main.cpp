@@ -1,9 +1,7 @@
-#include <iostream>
-#include <stdio.h>
-#include <ncurses/ncurses.h>
+#include "include/includes.h"
 
 int main() {
-    
+
     printf("Hello, world!");
     return 0;
 }
