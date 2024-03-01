@@ -1,10 +1,10 @@
 # Progetto-Informatica
-Tetris in c++ using curses/ncurses.h for ASCII graphics.
+ Tetris in c++ using curses/ncurses.h for ASCII graphics.
 
 
-libs:
+# libs:
 
-iostream
-stdio.h
-ncurses/ncurses.h
-fstream
+ iostream.
+ stdio.h.
+ ncurses/ncurses.h.
+ fstream.
