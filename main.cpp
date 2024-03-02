@@ -1,7 +1,26 @@
 #include "include/includes.h"
 
 int main() {
+    /*
+    initscr();
+    
+    int height, width, start_y, start_x;
+   
+    height = 10;
+    width = 20;
+    start_y = start_x = 10;
+    
+    WINDOW *win = newwin(height, width, start_y, start_x);
+    
+    refresh();
 
-    printf("Hello, world!");
+    box(win, 0, 0);
+    wrefresh(win);
+
+    getch();
+
+    endwin();
+    */
+   
     return 0;
 }
