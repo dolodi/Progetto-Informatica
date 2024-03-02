@@ -1,7 +1,7 @@
 #include "include/includes.h"
 
 int main() {
-    /*niggaaaa
+    /*
     initscr();
     
     int height, width, start_y, start_x;
